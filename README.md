@@ -1,2 +1,4 @@
 # Data-Analysis-Sample-Case-Study
-This is a sample data analysis study I completed on my own as training using Python in conjunction with SQL. The data is open access, and the case problem was completely hypothetical. I hope the code and results obtained may aid someone on their own data analysis journey.
+This is a sample data analysis study I completed on my own as training using Python in conjunction with SQL. The data is open access, and the case problem was completely hypothetical. 
+If you want to check the whole project, I recommend you start by Case Study Report.pdf, then head to methodology.ipynb for the more technical code. Be warned some cells may take several minutes to run, depending on your computer´s processing capabilites. Lastly, you can check the results in Visualizations.pdf or you can head over to https://public.tableau.com/app/profile/luis.gonzalez6272/viz/Divvypublicdata2022/top_stations for an interactive visualization of the Chicago bike shar locations. 
+I hope the code and results obtained may aid someone on their own data analysis journey. Cheers.
